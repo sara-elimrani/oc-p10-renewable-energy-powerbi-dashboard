@@ -67,10 +67,8 @@ The dashboard combines French regional production data, performance indicators, 
 ## Repository Structure
 
 ```text
-dashboard/
-  renewable_energy_dashboard.pbix
-presentation/
-  project_presentation.pdf
+renewable_energy_dashboard.pbix
+project_presentation.pdf
 ```
 
 ---
